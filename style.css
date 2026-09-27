@@ -1,0 +1,74 @@
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #F29F58;
+}
+h1,h2,h3 {
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:#A5D6A7;
+  font-size: 18pt;
+}
+
+  ul,p,li{
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    color: #C4F7CA;
+    font-size: 15pt;
+}
+.card{
+  background-color: #092328;
+  padding: 30px;
+  margin:30px;
+  border-radius: 30px;
+}
+  .*{ 
+    padding: 30px;
+  }
+
+  nav {
+padding: 4px;
+background-color:#a5d6a7;
+border-style:dashed;
+border-color:#F2842F;
+border-width: 3.5px;
+border-radius: 23.5px;
+  }
+
+ nav a {
+text-decoration: none;
+color:#FF6A1C;
+font-family: sans-serif;
+ }    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
